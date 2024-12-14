@@ -95,7 +95,7 @@ python main.py
 
 1. **Load and Preprocess Data**:
 
-   - The dataset is read from a CSV file (`final2.csv`).
+   - The dataset is read from a CSV file (`data.csv`).
    - Features like `weather` and `Day` are encoded using LabelEncoder.
    - Numerical features (`Temperature` and `Hour`) are normalized using StandardScaler.
 

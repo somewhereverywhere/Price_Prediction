@@ -149,7 +149,8 @@ You can use Flask or Streamlit for a user-friendly webpage interface:
 
 - `main.py`: Main script for prediction.
 - `data.csv`: Input dataset.
-- `final2_processed: input data after processing.
+- `final2_processed`: input data after processing.
+- `data.py`:script for data preprocessing and model training.
 - `adjusted_price_model.pkl`: Pre-trained model.
 - `scaler.pkl`: StandardScaler object for numerical features.
 - `label_encoder_weather.pkl`: LabelEncoder for weather.

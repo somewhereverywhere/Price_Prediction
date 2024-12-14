@@ -1,0 +1,115 @@
+Item,price,lowest competitive price,Day,Hour,Temperature,weather,Is busy,Adjusted price
+Aloo,16,7.95,Monday,11,32,Rain,0,7.95
+Aloo Chat,8.95,5.99,Tuesday,12,45,Rain,0,Closed
+Aloo Gobi,16,7.5,Wednesday,13,56,Rain,0,7.5
+Aloo Tikki,6,5.99,Thursday,14,57,Rain,0,5.99
+Alu Baingan,16,12.95,Friday,15,45,Clear,0,12.95
+Alu Paratha,8.95,7.45,Saturday,16,55,Clear,0,7.45
+Avial,14.95,7.95,Sunday,17,58,Clear,0,7.95
+B.B.B Bishibila Bath,12.95,8.95,Monday,18,57,Clear,1,8.95
+Badam Halwa,7.45,4,Tuesday,19,75,Clear,1,Closed
+Baigan Bharta,16,12.95,Wednesday,20,45,Rain,1,12.95
+Batata Vada,6.45,5,Thursday,21,32,Rain,1,6.45
+Bhel Puri,8.95,3.95,Friday,22,36,Rain,0,3.95
+Bhindi Masala,16,11.95,Saturday,11,38,Rain,0,11.95
+Butter Masala Dosa,13.75,6.5,Sunday,12,40,Clear,0,6.5
+Butter Sada Dosa,11.95,5.95,Monday,13,55,Clear,0,5.95
+Chana Masala,16,7.5,Tuesday,14,48,Clear,0,Closed
+Channa Chat,8.95,5.99,Wednesday,15,45,Clear,0,5.99
+Cheese Masala Dosa,13.75,7.95,Thursday,16,65,Rain,0,7.95
+Cheese Onion Chili Masala Dosa,14.95,8.95,Saturday,18,45,Rain,1,8.95
+Cheese Onion Rava Masala Dosa,16,14.2,Sunday,19,30,Rain,1,16
+Cheese Pondicherry,14.95,9.95,Monday,20,32,Rain,1,14.95
+Chennal Thali,21.95,16.95,Tuesday,21,41,Rain,1,Closed
+Chilly Pakora,6,3.95,Wednesday,22,60,Rain,0,3.95
+Chilly Paneer Dry,13.75,10.95,Thursday,11,65,Rain,0,10.95
+Chinese Dosa,14.95,8.5,Friday,12,55,Rain,0,8.5
+Chocolate Dosa,13.75,8.99,Saturday,13,28,Snow,0,8.99
+Chole Bature,16,14.99,Sunday,14,30,Snow,0,14.99
+Chole Poori,16,13,Monday,15,46,Clear,0,13
+Coconut Rava Masala Dosa,14.95,10,Tuesday,17,47,Clear,0,Closed
+Coconut Rice,12.95,6.95,Wednesday,18,55,Clear,1,6.95
+Combo,5.99,3.5,Thursday,19,30,Snow,1,5.99
+Dahi Vada,8.95,3.95,Friday,20,27,Snow,1,8.95
+Dum Biryani,14.95,8.95,Saturday,21,35,Rain,1,14.95
+Garden Salad,7.45,4.75,Sunday,22,46,Rain,0,4.75
+Garden Soup,7.45,6.95,Monday,12,55,Rain,0,6.95
+Ghee Fried Idly,9.95,6,Tuesday,13,55,Rain,0,Closed
+Ghee Roast Masala,13.75,7.5,Wednesday,14,25,Snow,0,7.5
+Gobi Manchurian Dry,12.95,8.99,Thursday,15,31,Snow,0,8.99
+Gobi Paratha,8.95,7.45,Friday,17,75,Clear,0,7.45
+Gulab Jamun,6,3.5,Saturday,18,66,Clear,1,3.5
+Gun Powder Masala Dosa,12.95,7.95,Sunday,19,51,Clear,1,7.95
+Gun Powder Uthappam,13.75,8.95,Monday,20,40,Rain,1,13.75
+Halwa with Vanila Ice Cream,8.95,5.95,Tuesday,21,65,Rain,1,Closed
+Idly,7.45,3.5,Wednesday,22,45,Rain,0,3.5
+Idly in Sambar Bow,8.95,4.5,Thursday,11,55,Rain,0,4.5
+Idly Rasam Bowl,8.95,4.5,Friday,12,68,Clear,0,4.5
+Kadai Paneer,16,7.5,Saturday,13,40,Clear,0,7.5
+Katchumbar Salad,7.45,6.95,Sunday,14,52,Clear,0,6.95
+Kulfi Malai,6,3.5,Monday,15,39,Rain,0,3.5
+Lassi,6,3.5,Tuesday,16,40,Rain,0,Closed
+Lemon Rice,12.95,6.5,Wednesday,17,41,Rain,0,6.5
+Madras Coffee Hot,3,2.95,Thursday,18,37,Rain,1,3
+Malai Kofta,16,12.95,Saturday,20,75,Clear,1,13.99
+Masala Dosa,12.95,5.5,Monday,22,42,Clear,1,5.5
+Masala Tea Hot,2.95,1.95,Tuesday,11,55,Clear,0,1.95
+Medu Vada,6,3.5,Wednesday,12,45,Rain,0,3.5
+Medu Vada in Rasam Bowl,6.99,4.5,Thursday,13,46,Rain,0,4.5
+Medu Vada in Sambar Bowl,6.99,4.5,Friday,14,42,Rain,0,4.5
+Methi Mutter Malai,16,7.5,Saturday,15,52,Rain,0,7.5
+Mini Idly,7.45,4.5,Sunday,16,58,Rain,0,4.5
+Mulligatawny Soup,7.45,4.99,Monday,17,65,Rain,0,4.99
+Mushroom Masala Dosa,13.75,10.99,Tuesday,18,41,Rain,1,Closed
+Mushroom Uthappam,13.75,9.99,Wednesday,19,52,Rain,1,9.99
+Mutter Paneer,16,7.5,Thursday,20,42,Rain,1,16
+Mysore Sada Dosa,12.95,8.99,Saturday,22,52,Rain,0,8.99
+Nav Ratan Korma,16,12.95,Sunday,11,32,Snow,0,12.99
+North Indian Thali,21.95,17.99,Monday,12,35,Snow,0,17.99
+Onion Chilli Garlic Uthappam,13.75,7.5,Tuesday,13,52,Clear,0,Closed
+Onion Chilli Masala Dosa,12.95,6.95,Wednesday,14,55,Clear,0,6.95
+Onion Chilli Uthappam,13.75,7.5,Thursday,15,46,Clear,0,7.5
+Onion Paratha,8.95,6.5,Friday,16,41,Clear,0,6.5
+Onion Rava Masala Dosa,14.95,8.95,Saturday,17,40,Clear,0,8.95
+Palak Paneer,16,7.5,Monday,19,40,Clear,1,7.5
+Paneer Bhurji,16,12.99,Tuesday,20,41,Rain,1,Closed
+Paneer Bhurji Dosa,16,12.99,Wednesday,21,38,Snow,1,16
+Paneer Masala Dosa,14.95,10.99,Thursday,22,32,Snow,0,10.99
+Paneer Pakkoda,8.95,4.5,Friday,11,48,Rain,0,4.5
+Paneer Pondicherry Dosa,14.95,9.95,Saturday,12,49,Rain,0,9.95
+Paneer Tikka Masala,16,14.2,Sunday,13,68,Clear,0,14.2
+Paneer Uthappam,14.95,9.99,Monday,14,67,Clear,0,9.99
+Paper Roast Dosa,12.95,6.95,Tuesday,15,25,Snow,0,Closed
+Paratha,7.45,6.95,Wednesday,16,31,Snow,0,6.95
+Plain Uthappam,11.95,5.95,Thursday,17,30,Snow,0,5.95
+Podi Idly,8.95,4.5,Friday,18,32,Snow,1,8.95
+Pondicherry Masala Dosa,14.95,7.95,Saturday,19,41,Rain,1,14.95
+Pongal,14.95,8.99,Sunday,20,45,Rain,1,8.99
+Poondu Kulambu,16,13.95,Monday,21,46,Rain,1,13.95
+Poori,6,1.95,Tuesday,22,71,Clear,0,Closed
+Rasam,7.45,1.95,Wednesday,11,58,Rain,0,1.95
+Rasmalai,6,3.5,Thursday,12,36,Snow,0,3.5
+Rava Chilli Gun Powder Masala Dosa,16,13.99,Friday,13,58,Clear,0,13.99
+Rava Sada Dosa,14.95,9.99,Saturday,14,49,Rain,0,9.99
+Sada Dosa,11.95,4.95,Sunday,15,47,Rain,0,4.95
+Sambar,7.45,1.75,Monday,16,41,Clear,0,1.75
+Samosa,6,6.45,Tuesday,17,40,Rain,0,5.99
+Samosa Chat,8.95,7.45,Wednesday,18,52,Clear,1,7.99
+Set Dosa,11.95,10.95,Thursday,19,41,Rain,1,11.95
+Shake,6.95,3.5,Friday,20,32,Snow,1,6.95
+Soda,2.95,1,Saturday,21,58,Clear,1,1
+South Indian Thali,21.95,16.95,Sunday,22,38,Snow,0,16.95
+Spinach Masala Dosa,14.95,6.95,Monday,11,39,Snow,0,6.95
+Spring Masala Dosa,14.95,6.95,Tuesday,12,40,Snow,0,6.95
+Spring Rolls,7.45,3.95,Wednesday,13,52,Rain,0,3.95
+Tamarind Rice,12.95,6.5,Thursday,14,54,Rain,0,6.5
+Tomato Rice,12.95,6.5,Friday,15,46,Rain,0,6.5
+Tomato Soup,7.45,5.95,Saturday,16,47,Rain,0,5.95
+Uppma,14.95,4.95,Sunday,17,73,Clear,0,4.95
+Vangi Bhath,12.95,8.95,Monday,18,71,Clear,1,8.95
+Vegetables Fried Rice,12.95,6.95,Tuesday,19,24,Snow,1,Closed
+Vegetables Hakka Noodles,13.75,6.95,Wednesday,20,26,Snow,1,13.75
+Vegetables Pullav,12.95,8.95,Thursday,21,22,Snow,1,12.95
+Vendaikai Kulambu,14.95,12.99,Friday,22,30,Snow,0,12.99
+Water,0.95,0.95,Saturday,11,29,Snow,0,0.95
+Yogurt Rice,12.95,6.5,Sunday,12,32,Snow,0,6.5

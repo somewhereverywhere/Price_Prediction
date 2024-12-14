@@ -32,6 +32,7 @@ This project predicts the adjusted price of menu items for a restaurant based on
 
 ## **Dataset**
 The dataset was generated using web scraping techniques, with a dedicated Google Colab notebook created and uploaded to this repository for reproducibility. The notebook demonstrates step-by-step how the data was extracted from yelp and prepared for the prediction model.
+**colab**:`https://colab.research.google.com/drive/1cFQ3oOVLQZZH5gKNhbTAPSwWuEk39MS4?usp=sharing`
 
 
 - **Input**: CSV file (`data.csv`) containing menu items with the following fields:
